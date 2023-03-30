@@ -8,3 +8,11 @@ Rockstars, high performers, future leaders – whatever you call them, they all 
 - [Analyzing Data for Insights - Turn your spreadsheets into strategies with Sarah Evangeline Norman](https://github.com/jinyongyu/Section/blob/main/analyzing_data_for_insights.md)
 - [Data Storytelling - Let your data do the talking]()
 - [The Productivity & Performance Sprint - Stop wasting time. Start making progress.]()
+## Other Courses
+- [The Data Principles Sprint]()
+- [Inclusive Leadership]()
+- [Writing for Impact]()
+- [The Storytelling for Influence Sprint]()
+- [The Complete Manager Sprint]()
+- [How to Write a Creative Brief]()
+- [Strategic Planning]()
