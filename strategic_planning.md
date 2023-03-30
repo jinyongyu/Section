@@ -23,3 +23,8 @@ Welcome to the Strategic Planning course taught by Sara Lobkovich, Executive Str
 • Submit a reflection question to earn a LinkedIn Badge via the survey link at the bottom.
 
 Let’s get started!
+### Lesson 1 - The Connected Strategic Stack Framework
+### Lesson 2 - Having a vision
+### Lesson 3 - Topline measures
+### Lesson 4 - Objectives
+### Lesson 5 - Key results
