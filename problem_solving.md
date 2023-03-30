@@ -43,6 +43,7 @@ Foundational Mental Model:<img src="sc3.png" alt="Alt text" title="Optional titl
 - Situation
 - Complication
 - Critical Question
+
 To formulate a 'good' question, ask yourself....
 - What **assumptions** am I making in asking the question this way?
 - Is this a **macro** or **micro** issue?
