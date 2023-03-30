@@ -21,9 +21,9 @@ This course includes two elements:
 ### Complete the program
 Analyzing Data for Insights is part of the Business Core certificate program. Complete the required courses to round out your skillset and earn a certificate, in addition to badges for each course.
 
-This course includes seven modules. For each module, watch the video and complete any associated exercises in the project spreadsheet (Microsoft Excel / Google Sheets). Once you get to the end, submit your project via the survey to earn a LinkedIn badge.
+This course includes seven modules. For each module, watch the video and complete any associated exercises in the project spreadsheet ([Microsoft Excel](https://media.sectionschool.com/courses/analyzing-data-for-insights/Analyzing_Data_for_Insights_Project_.xlsx)). Once you get to the end, submit your project via the survey to earn a LinkedIn badge.
 
-Before you get started, make a copy of the project spreadsheet (Microsoft Excel / Google Sheets) and keep it open in another window.
+Before you get started, make a copy of the project spreadsheet ([Microsoft Excel](https://media.sectionschool.com/courses/analyzing-data-for-insights/Analyzing_Data_for_Insights_Project_.xlsx)) and keep it open in another window.
 
 Let’s get started!
 #### Module 1 - Inquiry to Insight Framework
