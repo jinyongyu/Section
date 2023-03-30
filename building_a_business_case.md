@@ -58,8 +58,47 @@ Business cases can have different audiences and different structures for how the
 - **Prove** the problem or opportunity is worth pursuing
 - **Size** the impact
 ### Module 4 - Proposed Solution
+- **Plan** including owners, budget, and the buy-in you've already gotten
+- Estimated **timeframe** to implement your solution and **resources** you'll need
+- The estimated **impact** of this opportunity
+#### Plan Components
+- **High-level overview:** What are the key components in your plan? What are the top 3-5 milestones?
+- **Budget:** How much funding do you need near-term(1-6 months)? What's the total budget required?
+- **Timeline:** How long until you you could start? How long until your plan would be fully rolled out?
+- **Owners:** Who's going to make this happen?
+- **Buy-in:** Who's already signed off on this plan?
 ### Module 5 - Success Metrics
+- **KPIs** you'll use to measure progress
+- A plan on how you'll **track** your KPIs
+- Estimated **financial impact** of this opportunity
+- **Assumptions** you've made in building your financial case
+#### Determining Financial Impact
+- Most Critical - Ex: Project Costs, Operating Costs
+- Basic Metrics - Ex: Return on Investment(ROI), Breakeven
+- Advanced Metrics - Ex: Payback Period, Internal Rate of Return(IRR)
+#### Impact and Success Metrics
+##### Most critical financial terms in your case
+- Project Cost(s) - Project expenditure usually occur at the beginning -- they tend to include development, testing and qualification, training and deployment, and travel costs
+- Operating Cost(s) - How much money it will take to maintain whatever you're proposing. These include overhead costs, such as personnel, office space, maintenance and licensing fees, and any other ongoing expenses
+##### Financial terms that your audience will likely expect to see
+|Metric|What is it?|Why does it matter?|Simple formula|
+|---|---|---|---|
+|Return on investment (ROI)|A percentage that tells you how profitable an initiative will be|If you can't show your business case is profitable, your audience is *much* less likely to five the green light|Net profit / total costs * 100|
+|Breakeven|A number that shows how many sales it will take to get your money back on an investment|Your audience will want a concrete number to understand how many sales are requred before you turn a profit|Fixed costs / contribution margin|
+##### Slightly more advance financial terms that your audience will likely expect to see
+|Metric|What is it?|Why does it matter?|
+|---|---|---|
+|Payback Period|A certain type of break even - it shows when your audience recoups their investment|Some audiences need to recoup thier money quickly - you'll need to determine how much this matters for yours|
+|Internal Rate of Return(IRR)|A number that estimates how profitable your business case will be|IRR quickly tells your audience how "valuable" your case is. The higher the IRR, the more lucrative the opportunity|
 ### Module 6 - Risks & Dependencies
+- Key **risks** the company/team would take if this solution is implemented
+- **Dependencies** for your solution's success
+- **Mitigation** plan for risks and dependencies you can influence
+- Explain why your propasl is the **most de-risked and viable**
+#### Risks vs Dependencies
+- Risks - a **hypothetical even that could derail your business case**, or its implementation, if it actually occurs. It would be something out of your control. Will cause you to course correct and pivot based on what you originally planned.
+- Dependencies - **events or situations that need to happen before the rest of the plan can be implemented** - i.e. the dependency *must* happen, or else the rest of the plan fails. These can be mitigated with enough planning.
+Both risks and dependencies can be **internal or external, micro or macro**
 ### Module 7 - Business Case Example: JCrew
 ### Module 8 - Presenting your Business Case
 ### Module 9 - Pitfalls & How to Avoid Them
