@@ -128,3 +128,12 @@ Find the perfect mix of Data and Narrative
 - Have key stakeholder buy-in and support
 - Know your audience and understand thier motivations
 - Have reference material in the appendic based on functional areas
+#### Key Takeaways
+A great business case author
+- Thinks holistally, but communicates concisely
+- Includes clearly defined and easily measure milestones
+- Uses generic rather than specific dates
+- Gives themselves a bit of buffer in timeline
+- Identifies key stakeholders early
+- Tells a story
+- Always has a Plan B
