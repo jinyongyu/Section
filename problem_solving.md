@@ -24,7 +24,7 @@ Before you get started, make a copy of the project document ([Microsoft PowerPoi
 
 Let’s get started!<
 
-#### Module 1 - Problem Solving
+### Module 1 - Problem Solving
 Problem Solving is the ability to
 - **Frame** the right problem
 - **Deconstruct** it into smaller components
@@ -33,12 +33,12 @@ Problem Solving is the ability to
 
 Range of use cases: strategic and operational and even personal<br>
 Foundational Mental Model:<img src="sc3.png" alt="Alt text" title="Optional title"><br>
-##### Goals
+#### Goals
 - Identify the core components of the hypothesis-driven problem solving approach
 - Practice applying this framework in a guided example
 - Preview how this framework can help you communicate more effectively in email and verbal updates as well as presentations
 - Optional: Add this as a coaching tool to guide your team to work more efficiently
-#### Module 2 - Pyramid Struction
+### Module 2 - Pyramid Struction
 Defining the problem<br>
 Situation
 Complication
@@ -47,8 +47,8 @@ To formulate a 'good' question, ask yourself....
 - What **assumptions** am I making in asking the question this way?
 - Is this a **macro** or **micro** issue?
 - Who will **benefit** from me solving this problem?
-#### Module 3 - Defining the Problem
-#### Module 4 - Hypothesis, Reasons, and Data
+### Module 3 - Defining the Problem
+### Module 4 - Hypothesis, Reasons, and Data
 Benefits of Hypothesis Driven Model or Pyramid Structure
 - Decompose wthe work: unbundle complexity by identifiyin the key components of your recommendation
 - Prioritize the work: Enables decisons around where to focus and where not to focus
@@ -70,14 +70,14 @@ Use Data to prove/disprove your hypothesis<br>
   - Data, analysis and insights from external sources: market and industry reports, comptetitor data, lit. search, etc.
 **Primary**
 - Data that doesn't exist yet: consumer, employee, expert interviews and surveys, user research, etc.
-#### Module 5 - Next Steps and Recommendations
-##### Carrying out next steps<br>
+### Module 5 - Next Steps and Recommendations
+#### Carrying out next steps<br>
 Once you give your recommendation, you'll want to plan your next steps<br>
 Questions to consider
 - How can you further validate your hypothesis?
 - What's a low-risk way to ttest your recommendation?
 - What metrics will you track while testing to know whether you're right?
 - What will be your main risks and exit strategy?
-##### Communicating your work: be concise
+#### Communicating your work: be concise
 
 
