@@ -20,7 +20,7 @@ For each module, watch the video and complete the associated exercise in the pro
 #### Complete the program
 Problem-Solving is part of the Business Core certificate program. Complete the required courses to round out your skillset and earn a certificate, in addition to badges for each course.
 
-Before you get started, make a copy of the project document (Microsoft PowerPoint / Google Slides) and keep it open in another window. 
+Before you get started, make a copy of the project document ([Microsoft PowerPoint](https://media.sectionschool.com/courses/problem-solving/Problem_Solving_Project.pptx)) and keep it open in another window. 
 
 Let’s get started!<
 
