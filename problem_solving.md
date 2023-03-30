@@ -8,7 +8,7 @@ Welcome to the Problem Solving course taught by Jennie Tung, Partner at Bain & C
 
 You're about to jump into an engaging experience where you'll learn an actionable framework and apply it in a short project. You can expect to spend 1-1.5 hours on this course.
 
-What you’ll learn
+#### What you’ll learn
 - Identify and articulate a problem worth solving
 - Use a proven framework to formulate a hypothesis and test it with data
 - Put together a recommendation that will blow people away
@@ -18,9 +18,11 @@ What you’ll learn
 For each module, watch the video and complete the associated exercise in the project ([Microsoft PowerPoint](https://media.sectionschool.com/courses/problem-solving/Problem_Solving_Project.pptx)). Once you get to the end, submit your project via the survey to earn a LinkedIn badge.
 
 #### Complete the program
-Problem-Solving is part of the Business Core certificate program. Complete the required courses to round out your skillset and earn a certificate, in addition to badges for each course.<br>
+Problem-Solving is part of the Business Core certificate program. Complete the required courses to round out your skillset and earn a certificate, in addition to badges for each course.
 
-Before you get started, make a copy of the project document (Microsoft PowerPoint / Google Slides) and keep it open in another window. Let’s get started!<br>
+Before you get started, make a copy of the project document (Microsoft PowerPoint / Google Slides) and keep it open in another window. 
+
+Let’s get started!<
 
 #### Module 1 - Problem Solving
 Problem Solving is the ability to
