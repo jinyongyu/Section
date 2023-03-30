@@ -1,31 +1,30 @@
 # Data Storytelling
-Analyzing Data for Insights
+### Analyzing Data for Insights
 
-Turn your spreadsheets into strategies
-##### Sara Evangaline Norman
-Welcome
+### Turn your spreadsheets into strategies
+#### with Sara Evangaline Norman
+### Welcome
 
 Welcome to the Analyzing Data for Insights course taught by Sarah Evangeline Norman, Data Leader at TikTok.
 
 You’re about to jump into an interactive, engaging experience where you’ll learn an actionable framework. You can expect to spend 1-1.5 hours on this course.
 
-What you’ll learn
+### What you’ll learn
 - How to structure and clean a dataset
 - How to perform basic analyses to reveal insights
 - How to communicate your analyses in a clear and compelling way
 
-How you’ll learn
+### How you’ll learn
 This course includes two elements:
 - Lesson and case study videos
 - Project
 
-Complete the program
+### Complete the program
 Analyzing Data for Insights is part of the Business Core certificate program. Complete the required courses to round out your skillset and earn a certificate, in addition to badges for each course.
 
 This course includes seven modules. For each module, watch the video and complete any associated exercises in the project spreadsheet (Microsoft Excel / Google Sheets). Once you get to the end, submit your project via the survey to earn a LinkedIn badge.
 
 Before you get started, make a copy of the project spreadsheet (Microsoft Excel / Google Sheets) and keep it open in another window.
-
 
 Let’s get started!
 ### Module 1 - Inquiry to Insight Framework
