@@ -22,7 +22,7 @@ Problem-Solving is part of the Business Core certificate program. Complete the r
 
 Before you get started, make a copy of the project document ([Microsoft PowerPoint](https://media.sectionschool.com/courses/problem-solving/Problem_Solving_Project.pptx)) and keep it open in another window. 
 
-Let’s get started!<
+Let’s get started!
 
 ### Module 1 - Problem Solving
 Problem Solving is the ability to
@@ -38,31 +38,31 @@ Foundational Mental Model:<img src="sc3.png" alt="Alt text" title="Optional titl
 - Practice applying this framework in a guided example
 - Preview how this framework can help you communicate more effectively in email and verbal updates as well as presentations
 - Optional: Add this as a coaching tool to guide your team to work more efficiently
-### Module 2 - Pyramid Struction
-Defining the problem<br>
-Situation
-Complication
-Critical Question
+### Module 2 - Pyramid Structure
+- Defining the problem
+- Situation
+- Complication
+- Critical Question
 To formulate a 'good' question, ask yourself....
 - What **assumptions** am I making in asking the question this way?
 - Is this a **macro** or **micro** issue?
 - Who will **benefit** from me solving this problem?
 ### Module 3 - Defining the Problem
 ### Module 4 - Hypothesis, Reasons, and Data
-Benefits of Hypothesis Driven Model or Pyramid Structure
-- Decompose wthe work: unbundle complexity by identifiyin the key components of your recommendation
-- Prioritize the work: Enables decisons around where to focus and where not to focus
-Practically, what can helpd you to create an initial hypothesis?
-- Reflect on personal experiences
-- Brainstorm with team members/colleagues
-- Look for industry analogies and how lessons 'learned' can be applied
-- Check to see if competitors have made similar decisions in the past
-- Don't wait and strive for the perfect answer, get it on paper and treat it as a living document
-Developing your reasons: Be 80/20 (Pareto Principal)
-- Identify the most impactful issues
-- Focus efforts on efficiently finding the best answer
-- Answer questions with high-quality data-driven analysis and right level of details
-Use Data to prove/disprove your hypothesis<br>
+#### Benefits of Hypothesis Driven Model or Pyramid Structure
+- **Decompose the work**: unbundle complexity by identifiyin the key components of your recommendation
+- **Prioritize the work**: Enables decisons around where to focus and where not to focus
+#### Practically, what can helpd you to create an initial hypothesis?
+- **Reflect** on personal experiences
+- **Brainstorm** with team members/colleagues
+- **Look for industry analogies** and how lessons 'learned' can be applied
+- **Check** to see if competitors have made similar decisions in the past
+- **Don't wait** and strive for the perfect answer, get it on paper and treat it as a living document
+#### Developing your reasons: Be 80/20 (Pareto Principal)
+- Identify the **most impactful issues**
+- Focus efforts on **efficiently finding the best answer**
+- Answer questions with **high-quality data-driven analysis and right level of details**
+#### Use Data to prove/disprove your hypothesis<br>
 **Secondary**<br>
 - Internal Data
   - Internal company data: financial, operational, loyalty metrics, strategy, orcanizational structure, etc.
