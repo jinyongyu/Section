@@ -27,42 +27,42 @@ This course includes seven modules. For each module, watch the video and complet
 Before you get started, make a copy of the project spreadsheet (Microsoft Excel / Google Sheets) and keep it open in another window.
 
 Let’s get started!
-### Module 1 - Inquiry to Insight Framework
-#### Inquiry to Insight in 5 Steps
+#### Module 1 - Inquiry to Insight Framework
+##### Inquiry to Insight in 5 Steps
 - Start with a question and identiify the data
 - Prepare the data
 - Build an analysis
 - Extract insights
 - Communicate findings
-### Module 2 - Question & Data
+#### Module 2 - Question & Data
 #### Start with a question and identify the data<br>
 - Think about how broad or narrow you want your question to be<br>
 
 - Theres no right or wrong scope - but the way you frame your question impacts your datasets, insights, and recommendations<br>
   - Quality-checking <img src="sc.png" alt="Alt text" title="Optional title"><br>
   - Do I have Access to the Data I Need?<img src="sc1.png" alt="Alt text" title="Optional title"><br>
-### Module 3 -  Data Preparation
-#### Clean Dataset Checklist
+#### Module 3 -  Data Preparation
+##### Clean Dataset Checklist
  - Give each column in your dataset a **unique title**
  - Make sure currency/dates are **formatted the same way**
  - Remove **grouped cells and duplicates**
  - **Remove all filters** from the data
  - **Do not calculate averages, totals, etc.** directly in the dataset
 
-### Module 4 - Build an analysis
-#### Pivot Table
+#### Module 4 - Build an analysis
+##### Pivot Table
 
-#### Correlations
+##### Correlations
 - How much one thing relates to another
 - To calculate correlation in Excel **=CORREL(COLUMN1,COLUMN2)**
-### Module 5 - Extract Insights
-#### Your insight should be:
+#### Module 5 - Extract Insights
+##### Your insight should be:
 - Non-obvious
 - Actionable
 - Measurable
 
-### Module 6 - Communicate Findings
-#### How to Communicate your Findings
+#### Module 6 - Communicate Findings
+##### How to Communicate your Findings
 - Visualize
   - Your chart should be able to be understood in 5 seconds or less
   - Don't use 2 pie charts to show change over time
@@ -77,11 +77,11 @@ Let’s get started!
   - Consider your audience when shoosing the data to show
   - A selected timeline and scale should make sense and not mislead
 - Provide updates 
-### Module 7 - Conclusion and Takeaway
+#### Module 7 - Conclusion and Takeaway
 - Give the bottom line first <img src="sc2.png" alt="Alt text" title="Optional title"><br>
 - <img src="sc3.png" alt="Alt text" title="Optional title"><br>
 
-#### Key Takeaways
+##### Key Takeaways
 To analyze data for insights:
 - **The basics can take you pretty far.** Start with a question, prepare you data, and be scrappy as you play with pivot tables and correlations.
 - **Let the data tell you the story, not the other way around.** always watch out for biases and other limitations of working with data.
