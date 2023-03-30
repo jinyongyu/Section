@@ -115,6 +115,16 @@ Find the perfect mix of Data and Narrative
 |We can't make a decision yet|Stakeholders who agree aobut the business need but don't think you've found the right solution may send you back to the drawing board|Find out what the sticking points are. Does the project take to long? Does it cost too much? Is a strategic element missing? Based on above, adapt|
 |We can only approve part of the proposal|2 reaseons why review boards will five the go-ahead on just a portion of the case: process or issues|Move forward on key milestones that can be accomplished with the funding and prove out ROI on phase 1, make adaptations to phase 2 based on learnings|
 |Yes, let's move forward|Yes doesnt always mean yes, conflict-averse leaders sometimes approve a project but the never allocate resources for it|Resourcing: Who will elad the project(if not you)? How soon can you have a project plan in place? When can you pull a team together and start on the work? Be ready with answers, you don't want to lose momentum after securing approval|
-
 ### Module 9 - Pitfalls & How to Avoid Them
 <img src="sc7.png" alt="Alt text" title="Optional title"><br> 
+#### Most common mistakes and how to avoid them
+- Don't get fluseted or defensive when challenge; address the concerns
+- Don't use jargon and distill info into digestible bites
+- Don't belabor a point
+- Take a yes or agreement and move on 
+#### To increase your odds of approval
+- Be flexible!
+- Be succinct but tell a compelling story
+- Have key stakeholder buy-in and support
+- Know your audience and understand thier motivations
+- Have reference material in the appendic based on functional areas
