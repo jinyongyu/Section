@@ -101,4 +101,20 @@ Business cases can have different audiences and different structures for how the
 Both risks and dependencies can be **internal or external, micro or macro**
 ### Module 7 - Business Case Example: JCrew
 ### Module 8 - Presenting your Business Case
+Find the perfect mix of Data and Narrative
+<img src="sc6.png" alt="Alt text" title="Optional title"><br> 
+#### Stakeholder Questions to Expect
+|Strategy|Operations|Marketing|Product|
+|---|---|---|---|
+|How does this fit into the company's current roadmap?|If we don't fund this, what is the status quo we're left with?|How do you foresee us introducing the solution?|How does this fit into our existing porfolio?|
+|What other possible solutions did you consider|What risks did you consider and how do you recommend mitigation?|What audience insights went into this"(customer survey, brand tracker, concept testing)|Do you foresee this as a compliment to existing solutions or moving into a new category?|
+#### Get to an outcome
+|What did you hear?|Considerations|Next Steps?|
+|---|---|---|
+|No, this project isn't a priority|Cases typically get rejected because they're not in synce with strategic goals, projected ROI isn't high enough, or the org simply doesn't have the resources to make it happen|Depending on the reason for rejection, you may be able to build a stronger case later|
+|We can't make a decision yet|Stakeholders who agree aobut the business need but don't think you've found the right solution may send you back to the drawing board|Find out what the sticking points are. Does the project take to long? Does it cost too much? Is a strategic element missing? Based on above, adapt|
+|We can only approve part of the proposal|2 reaseons why review boards will five the go-ahead on just a portion of the case: process or issues|Move forward on key milestones that can be accomplished with the funding and prove out ROI on phase 1, make adaptations to phase 2 based on learnings|
+|Yes, let's move forward|Yes doesnt always mean yes, conflict-averse leaders sometimes approve a project but the never allocate resources for it|Resourcing: Who will elad the project(if not you)? How soon can you have a project plan in place? When can you pull a team together and start on the work? Be ready with answers, you don't want to lose momentum after securing approval|
+
 ### Module 9 - Pitfalls & How to Avoid Them
+<img src="sc7.png" alt="Alt text" title="Optional title"><br> 
