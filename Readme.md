@@ -17,6 +17,5 @@ There are a billion books about leadership, but very few opportunities for hands
 ## Other Courses
 - [The Data Principles Sprint - Power more strategic decisions](https://github.com/jinyongyu/Section/blob/main/the_data_principles_sprint.md)
 - [Writing for Impact - Craft messages that drive action](https://github.com/jinyongyu/Section/blob/main/writing_for_impact.md)
-- [How to Write a Creative Brief - Be creative. Not chaotic.](https://github.com/jinyongyu/Section/blob/main/how_to_write_a_creative_brief.md)
 
 ###### *Same course
