@@ -62,9 +62,64 @@ Analytical assembly line
 - Use analytics to strengthen your relationship with customers
 - Make the people behind the process a priority
 ### Framing the Problem
+Without data decisions can be swayed by convincing but misleading anecdotes and opinions<br>
+To ensure a data-driven approach is worht the effort, you need to consider how you frame the problem or opportunity you want to investigate<br>
+- U - **untested
+  - dont want to waste time on problem already tested/understood
+  - find something not yet solved
+  - can save time/energy
+- D - **defined
+  - sharp focus clearly indicating what where why
+- A - **acute
+  - important to orcanization
+  - worthy of time and attention
+  - major painpoints
+- T - **testable
+  - *"can i test this with data i already have or can obtain?"
+- A - **actionable
+  - if insights cant be acted upon, analytics can be wasted effor
+  - can it be put in real life use/context
+- I - **impactful
+  - move needle on at least 1 critical metric
+  - sustainable impact that will continue to stay impactful over time
+
+The more of the criteria it can satisfy, the more likely the problem is suited for analytics
+#### Key Takeaways
+- Analytics is an iterative process
+- Evaluate a problem on whether it's acute, impactful, and untested before assessing other categories
+- Resist rushing into analysis - spend time to fully understand your problem
+- Involve others when framing the problem
 #### Case Study: LexisNexis
+#### Key Takeaways
+- Make your problem defined and testable by framing it around your core competencies
+- Focus on untested, acute, and impactul problems to capture market share
+- When it comes to actionability, consider the range of use-cases and applications
 ### Module 2 - 
+#### Exploring and evaluating Data
+
+#### Key Takeaways
+
+#### Case Study: Domino's Pizza
+
+#### Key Takeaways
+
+#### Model Design
+
+#### Key Takeaways
+
+#### Case Study: FICO
+
+#### Key Takeaways
+
 ### Module 3 - 
+#### Interpreting results
+
+#### Case Study: moderna
+
 ### Module 4 - 
-### Module 5 - 
+#### Competing on analytics
+
+#### Case Study: CapitalOne
+
+### Module 5 - Optional Dataset Walkthroughs
 ### Live Lectures - 
