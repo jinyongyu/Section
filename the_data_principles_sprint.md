@@ -130,10 +130,10 @@ re-envisioned themselves as ecommerce brand
 - Democratize interpretation of, and action on, data
 - Leverage software suppliers to capture and organize your data
 #### Model Design
--Guess what factors have the greates influence on the problem
--Creating a hypothesis for what aspects of your data are really important predictors of the outcome that you want to explain.
--Understanding of your industry, customer, and business model are vital in indentifying the various factors shaping a problem and how they interact.
--Translating technical needs of analytical project with the business needs to work well and be easily deployed
+- Guess what factors have the greates influence on the problem
+- Creating a hypothesis for what aspects of your data are really important predictors of the outcome that you want to explain.
+- Understanding of your industry, customer, and business model are vital in indentifying the various factors shaping a problem and how they interact.
+- Translating technical needs of analytical project with the business needs to work well and be easily deployed
 #### Analytics Blueprint
 - Problem
 - Hypothesis
