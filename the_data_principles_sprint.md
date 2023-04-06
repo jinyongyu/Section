@@ -96,30 +96,127 @@ The more of the criteria it can satisfy, the more likely the problem is suited f
 - When it comes to actionability, consider the range of use-cases and applications
 ### Module 2 - 
 #### Exploring and evaluating Data
+Data is the raw material transformed into insights. 
+
+Data is a set of observations about states of the world. Can take variety of different forms: numbers, satisfaction level, images, recordings of customer service conversations,  etc.
+
+A firm's success with analytics is largely tied to the quality of the data it collects.
+
+- Quality 1: Size, smaller dataset should considered when dealing with traditional analytics. machine learning uses a lot of data. Big data(google, ibm, salesforce).<br>
+  - Big Data: large volume and more complex data
+- Quality 2: Reliability, (was data collected well?, were there bad typists?, do we let customers describe thier own problem?)
+- Quality 3: Unique, if everyone used the same peice of data, chances are, it has little strategic value
+- Quality 4: Accessibility
 
 #### Key Takeaways
-
+- Audit your current data collection methods for quality
+  - **Qualities of Data**
+    - Size
+    - Reliability
+    - Uniqueness
+    - Accessibility
+- Identify unique measures of performance
+- Data is a vital resource for your firm - treat it with care
 #### Case Study: Domino's Pizza
-
+2008 - company struggling
+data driven transformation named "the pizza turnaround"
+re-envisioned themselves as ecommerce brand
+- size, collects massive quantity of data, 17 terabytes of info
+- reliable, captured and stndardized data
+- unique, enriches private data w/ public data, loyalty program trades pizza for data, data science team classifies image to calssify dominoes or competitor
+- accessible, integrated system to be able to be used by multiple teams 
 #### Key Takeaways
-
+- Evaluate and collect data across your entire customer journey
+- Democratize interpretation of, and action on, data
+- Leverage software suppliers to capture and organize your data
 #### Model Design
-
+-Guess what factors have the greates influence on the problem
+-Creating a hypothesis for what aspects of your data are really important predictors of the outcome that you want to explain.
+-Understanding of your industry, customer, and business model are vital in indentifying the various factors shaping a problem and how they interact.
+-Translating technical needs of analytical project with the business needs to work well and be easily deployed
+#### Analytics Blueprint
+- Problem
+- Hypothesis
+- Variables
+  - Independant
+  - Dependent
+- Data Points
+  -  Binary
+  -  Categorical
+  -  Ordinal
+  -  Numerical
 #### Key Takeaways
-
+- Hypotheses are educated guessed - keep an open mind and solicit input from key stakeholders
+- Whereas machine learning can process many variables, traditional analytics runs better with fewer variables
+- Evaluate data complexity when designing a model - when in doubt, keep it simple
 #### Case Study: FICO
+FICO - Fair Isaac Corporation
 
+Used in 90% of lending decisions
+
+FICO analytics blueprint:
+- Problem - Objectively assessing a loans risk
+- Hypothesis - the best indicator o f a consumers credit worthiness is thier history of borrowing and repaying loans
+- Dependent Variable - the likelihood of a borrower making full/timely loan paymen
+- Independent Variable - Payment history and amount owed
 #### Key Takeaways
-
+- Frequent, high-stakes decisions call for strong confidence in analytics
+- Incorporate various types of data to add contect to an analysis
+- Assign different weights to independent variables and data
 ### Module 3 - 
 #### Interpreting results
+"Big Data Hubris"
 
+Analytics can be misinterpreted - Confirmation Bias
+
+#### 3 Important Questions:
+- Do the results refute or confirm hypothesis?
+- How confident are you in the model?
+  - Confidence Interval
+- Do you understand the causation and correlation?
+  - correlation 
+  - causation - AB testing
+#### Key Takeaways
+- Results arent always conclusive - expect to iterate your models
+- Question reults that defy the norm
+- Don't rush a decision
 #### Case Study: moderna
-
+Strong confidence interval and found causal
+Ran randomized controlled trial
+#### Key Takeaways
+- It's okay to start small and graudually increase sample size
+- Setting a specific success threshold makes it easier to confirm or refute your hypothesis
+- Run experiments multiple times with increasingly larger groups
 ### Module 4 - 
 #### Competing on analytics
-
+Foster a data-driven culture<br>
+5 part framework
+#### DELTA
+- **D**ata
+  - greatest differentiator 
+- **E**nterprise Strategy
+  - moving analytics from a sporadic and soloed activity to a focused and networked capability
+  - Key's to Enterprise Strategy:
+    - Analytic strategy roadmap
+    - Unified data and analytic playform
+    - Improving data literacy
+- **L**eadership
+- **T**arget
+  - clear business priorities that can benefit from analytics
+  - takes 1 aspect and creates a lofty but feasible roadmap to get there
+- **A**nalysts
+  - data professionals
 #### Case Study: CapitalOne
-
+Early adopter of analytics
+DELTA
+- Data - acquires Bundle Corp
+- Enterprise Strategy - commited to analytics, company wide buy-in
+- Leadership - believed analytics would lead banking, first CDO(Chief Data Officer)
+- Target - primary focus was to privde targeted customers w/ custom innovative products
+- Analysts - 23% of role are Analysts - ADP (Analyst Dev Program)
+#### Key Takeaways
+- Communicate effective data analytics strategies as part of a broader, comapny-wide vision
+- Key to createing a culture of data collaboration is hiring skilled talent and upskilling existing employees
+- Evolve your data analytics approaches as new technologies and techniques become available
 ### Module 5 - Optional Dataset Walkthroughs
 ### Live Lectures - 
