@@ -6,6 +6,7 @@ Rockstars, high performers, future leaders – whatever you call them, they all 
 - [Analyzing Data for Insights - Turn your spreadsheets into strategies](https://github.com/jinyongyu/Section/blob/main/analyzing_data_for_insights.md)
 - [Data Storytelling - Let your data do the talking*](https://github.com/jinyongyu/Section/blob/main/data_storytelling.md)
 - [The Productivity & Performance Sprint - Stop wasting time. Start making progress.](https://github.com/jinyongyu/Section/blob/main/the_productivity_%26_performance_sprint.md)
+- [Compelling Presentations - Impress your audience every time](https://github.com/jinyongyu/Section/blob/main/compelling_presentations.md)
 
 ## Strategic Leader Certification
 There are a billion books about leadership, but very few opportunities for hands-on practice. In five courses, we’ll help you build essential leadership skills like strategic planning, problem-solving, and people management. Just don’t forget us when you’re in the C-suite.
